@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow:
+Host: kateshine.ru
+
+User-agent: Yandex
+
+Clean-param: utm_source *
+Clean-param: utm_medium *
+Clean-param: utm_campaign *
+Clean-param: utm_content *
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content *

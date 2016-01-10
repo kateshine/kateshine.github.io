@@ -1,5 +1,5 @@
 User-Agent: *
-Disallow:
+Disallow: /*utm_
 Host: kateshine.ru
 
 User-agent: Yandex
